@@ -1,0 +1,88 @@
+.body {
+    background-image: url=("https://www.padeladdict.com/wp-content/uploads/2012/12/historia-del-padel-portada.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 100%;
+    width: 920px;
+    height: 400px;
+  }
+  .boton3ra {
+    background-color: #32ca27; /* Color de fondo del botón */
+    border: double; /* Elimina el borde del botón */
+    border-radius: 35%;
+    color: white; /* Color de texto del botón */
+    padding: 15px 32px; /* Añade espacio de relleno al botón */
+    text-align: center; /* Centra el texto del botón */
+    text-decoration: none; /* Elimina la subrayado del texto del botón */
+    display: inline-block; /* Ajusta el ancho del botón al contenido */
+    font-size: 16px; /* Tamaño de letra del botón */
+    margin: 4px 2px; /* Añade un margen al botón */
+    cursor: pointer; /* Cambia el cursor al hacer hover sobre el botón */
+    display: flex;
+    margin-right: 100px;
+    position:relative;
+    top: 95px;
+    left: 350px;
+  }
+  .boton5ta {
+    background-color: #32ca27; /* Color de fondo del botón */
+    border:double; /* Elimina el borde del botón */
+    border-radius: 35%;
+    color: white; /* Color de texto del botón */
+    padding: 15px 32px; /* Añade espacio de relleno al botón */
+    text-align: center; /* Centra el texto del botón */
+    text-decoration: none; /* Elimina la subrayado del texto del botón */
+    display: inline-block; /* Ajusta el ancho del botón al contenido */
+    font-size: 16px; /* Tamaño de letra del botón */
+    margin: 4px 2px; /* Añade un margen al botón */
+    cursor: pointer; /* Cambia el cursor al hacer hover sobre el botón */
+    display: flex;
+    margin-right: 90px;
+    position: relative;
+    top: 40px;
+    left: 550px;
+  }
+  .boton7ma {
+    background-color: #32ca27; /* Color de fondo del botón */
+    border: none; /* Elimina el borde del botón */
+    border-radius: 35%;
+    color: white; /* Color de texto del botón */
+    padding: 15px 32px; /* Añade espacio de relleno al botón */
+    text-align: center; /* Centra el texto del botón */
+    text-decoration: none; /* Elimina la subrayado del texto del botón */
+    display: inline-block; /* Ajusta el ancho del botón al contenido */
+    font-size: 16px; /* Tamaño de letra del botón */
+    margin: 4px 2px; /* Añade un margen al botón */
+    cursor: pointer; /* Cambia el cursor al hacer hover sobre el botón */
+    display: flex;
+    margin-right: 100px;
+    position:relative;
+    top: -15px;
+    left: 750px;
+  }
+  .encabezado {
+    font-size: 70px; /* tamaño de fuente */
+    text-align: center;
+    color: #0e0909; /* color de texto */
+    font-family: Arial, sans-serif; /* fuente utilizada */
+    line-height: 1.5; /* espaciado entre líneas */
+    margin-right: 100px;
+    position:relative;
+    top: 20px;
+    left: 180px;
+  
+  }
+  .cat {
+    font-size: 40px; /* tamaño de fuente */
+    text-align: center;
+    color: #fffdfd; /* color de texto */
+    font-family: Arial, sans-serif; /* fuente utilizada */
+    line-height: 1.5; /* espaciado entre líneas */
+    margin-right: 100px;
+    position:relative;
+    top: 20px;
+    left: 180px;
+    border-style: dashed;
+  }
+  
